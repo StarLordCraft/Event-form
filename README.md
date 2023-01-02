@@ -1,4 +1,4 @@
-# Evnet Form
+# Event Form
 
 Form using the HTML and CSS, the idea was use unique styling especially the input:checkbox element.
 
